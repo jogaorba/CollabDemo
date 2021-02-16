@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Amanda Visconti
+author: Guest
 title:  "A Post about My Research"
 date:   2016-11-12 
 ---

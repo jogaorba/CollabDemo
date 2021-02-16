@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Brandon Walsh
+author: Joshua Ortiz Baco
 title:  "Welcome to Jekyll!"
 date:   2016-11-12 
 ---
